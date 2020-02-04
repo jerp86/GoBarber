@@ -1,0 +1,31 @@
+{
+  "name": "gobarber",
+  "version": "1.0.0",
+  "description": ":fire: GoBarber back-end :rocket:",
+  "main": "src/server.js",
+  "keywords": [
+    "node.js",
+    "node",
+    "express"
+  ],
+  "author": {
+    "name": "José Eduardo Rodrigues Pinto",
+    "email": "jerp4@hotmail.com",
+    "url": "https://www.linkedin.com/in/jerp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerp86/GoBarber.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jerp86/GoBarber/issues",
+    "email": "jerp4@hotmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
