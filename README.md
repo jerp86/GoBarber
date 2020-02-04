@@ -38,7 +38,7 @@ Through GoBarber Mobile, with a simple registration, each customer can search fo
 
 In order to have all these resources both on the Web and on Mobile, the Back-end is responsible for making all of these resources available for registration, consultation and scheduling.
 
-The GoBarber Back-end will be a RESTFul API developed in Node.js and a few libs listed below.
+The [GoBarber] Back-end will be a [RESTFul][rest] API developed in [Node.js][nodejs] and a few libs listed below.
 
 ## :rocket: Technologies
 
@@ -50,6 +50,8 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [Nodemon]
 - [Yarn]
 - [NPM]
+- [ESLint]
+- [Prettier]
 - [Editor Config][vceditconfig]
 - [VS Code][vc]
 - [Insomnia]
@@ -89,8 +91,12 @@ Made with ♥ by Jerp :wave: [Get in touch!][jerp]
 [sucrase]: https://sucrase.io/
 [nodemon]: https://nodemon.io/
 [sequelize]: https://sequelize.org/
-[postgreq]: https://www.postgresql.org/
+[postgres]: https://www.postgresql.org/
 [bcrypt]: https://github.com/dcodeIO/bcrypt.js
 [jwt]: https://jwt.io/
 [mongo]: https://www.mongodb.com/
 [redis]: https://redis.io/
+[rest]: https://pt.wikipedia.org/wiki/REST
+[GoBarber]: https://github.com/jerp86/GoBarber
+[ESLint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[Prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
