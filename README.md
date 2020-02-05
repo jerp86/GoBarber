@@ -53,11 +53,12 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [NPM]
 - [ESLint]
 - [Prettier]
-- [Editor Config][vceditconfig]
+- :card_index: [Editor Config][vceditconfig]
 - [Sequelize]
 - :elephant: [PostgreSQL]
 - :closed_lock_with_key: [BCrypt]
 - :key: [JWT]
+- :heavy_check_mark: [Yup]
 - :card_index: [VS Code][vc]
 - :dart: [Insomnia]
 
@@ -94,8 +95,6 @@ Made with ♥ by Jerp :wave: [Get in touch!][jerp]
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [jerp]: https://www.linkedin.com/in/jerp/
-[CRUD]: https://pt.wikipedia.org/wiki/CRUD
-[Middleware]: https://expressjs.com/pt-br/guide/writing-middleware.html
 [insomnia]: https://insomnia.rest/
 [sucrase]: https://sucrase.io/
 [nodemon]: https://nodemon.io/
@@ -103,9 +102,8 @@ Made with ♥ by Jerp :wave: [Get in touch!][jerp]
 [postgresql]: https://www.postgresql.org/
 [bcrypt]: https://github.com/dcodeIO/bcrypt.js
 [jwt]: https://jwt.io/
-[mongo]: https://www.mongodb.com/
-[redis]: https://redis.io/
 [rest]: https://pt.wikipedia.org/wiki/REST
 [GoBarber]: https://github.com/jerp86/GoBarber
 [ESLint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [Prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[Yup]: https://github.com/jquense/yup
