@@ -52,6 +52,8 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [NPM]
 - [ESLint]
 - [Prettier]
+- [Sequelize]
+- :elephant: [PostgreSQL]
 - [Editor Config][vceditconfig]
 - [VS Code][vc]
 - [Insomnia]
@@ -91,7 +93,7 @@ Made with ♥ by Jerp :wave: [Get in touch!][jerp]
 [sucrase]: https://sucrase.io/
 [nodemon]: https://nodemon.io/
 [sequelize]: https://sequelize.org/
-[postgres]: https://www.postgresql.org/
+[postgresql]: https://www.postgresql.org/
 [bcrypt]: https://github.com/dcodeIO/bcrypt.js
 [jwt]: https://jwt.io/
 [mongo]: https://www.mongodb.com/
