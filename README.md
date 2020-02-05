@@ -52,9 +52,10 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [NPM]
 - [ESLint]
 - [Prettier]
+- [Editor Config][vceditconfig]
 - [Sequelize]
 - :elephant: [PostgreSQL]
-- [Editor Config][vceditconfig]
+- [BCrypt]
 - [VS Code][vc]
 - [Insomnia]
 
