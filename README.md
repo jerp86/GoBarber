@@ -69,7 +69,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 4. Run `yarn dev` or `npm run dev` to start the server.
 
 ## :dart: Insomnia
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Test%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjerp86%2F2020_desafio01%2Fmaster%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Test%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjerp86%2FGoBarber%2Fmaster%2FInsomnia.json)
 
 
 ## :thinking: How to Contribute
