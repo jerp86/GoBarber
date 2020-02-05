@@ -24,6 +24,7 @@
   <a href="#rocket-about-the-project">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#fire-installation-and-execution">Installation and Execution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#dart-insomnia">Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#thinking-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -55,9 +56,10 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [Editor Config][vceditconfig]
 - [Sequelize]
 - :elephant: [PostgreSQL]
-- [BCrypt]
-- [VS Code][vc]
-- [Insomnia]
+- :closed_lock_with_key: [BCrypt]
+- :key: [JWT]
+- :card_index: [VS Code][vc]
+- :dart: [Insomnia]
 
 ## :fire: Installation and Execution
 
@@ -65,6 +67,10 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 2. Enter the folder by running `cd GoBarber`;
 3. Run `yarn` or `npm install` to install the dependencies;
 4. Run `yarn dev` or `npm run dev` to start the server.
+
+## :dart: Insomnia
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Test%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fjerp86%2F2020_desafio01%2Fmaster%2FInsomnia.json)
+
 
 ## :thinking: How to Contribute
 
