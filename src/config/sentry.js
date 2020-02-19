@@ -1,3 +1,3 @@
 export default {
-  dsn: 'https://446cbfb66975443ba1c57ad8836fbb2f@sentry.io/2667573',
+  dsn: process.env.NODE_ENV === 'production' ? process.env.SENTRY_DSN : '',
 };
